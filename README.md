@@ -16,3 +16,5 @@
     using Pkg
     Pkg.add("IJulia")
     ```
+
+#### [Very fast tutorial (Learn Julia in Y Minutes)](https://learnxinyminutes.com/docs/julia/)
